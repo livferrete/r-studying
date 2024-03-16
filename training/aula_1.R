@@ -12,7 +12,7 @@
   # Mantendo o cursor posicionado na linha desejada, apertar Ctrl + Enter ou clicar em "Run"
  
 
-# Atribuindo valor a variável  ----
+# Atribuindo valor a variáveis  ----
   # A variável deve sempre começar com uma letra, e não se pode usar espaço
   # Deve-se executar as linhas das variáveis para que recebam os valores
   # Ao separar os comandos, deve-se utilizar ';'
